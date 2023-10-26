@@ -1,0 +1,13 @@
+C:\Users\samma\source\repos\rpg\rpg\bin\Debug\rpg.exe.config
+C:\Users\samma\source\repos\rpg\rpg\bin\Debug\rpg.exe
+C:\Users\samma\source\repos\rpg\rpg\bin\Debug\rpg.pdb
+C:\Users\samma\source\repos\rpg\rpg\bin\Debug\Engine.dll
+C:\Users\samma\source\repos\rpg\rpg\bin\Debug\Engine.pdb
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.csproj.AssemblyReference.cache
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.Properties.Resources.resources
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.csproj.GenerateResource.cache
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.csproj.CoreCompileInputs.cache
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.csproj.CopyComplete
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.exe
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.pdb
+C:\Users\samma\source\repos\rpg\rpg\obj\Debug\rpg.SuperAdventure.resources

@@ -1,0 +1,6 @@
+C:\Users\samma\source\repos\rpg\Engine\bin\Debug\Engine.dll
+C:\Users\samma\source\repos\rpg\Engine\bin\Debug\Engine.pdb
+C:\Users\samma\source\repos\rpg\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\samma\source\repos\rpg\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\samma\source\repos\rpg\Engine\obj\Debug\Engine.dll
+C:\Users\samma\source\repos\rpg\Engine\obj\Debug\Engine.pdb
