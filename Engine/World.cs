@@ -92,7 +92,7 @@ namespace Engine
             Quest clearAlchemistGarden = new Quest(QUEST_ID_CLEAR_ALCHEMIST_GARDEN,
                 "Clear the alchemist's garden",
                 "Kill rats in the alchemist's garden and bring back 3 rat tails. You will receive a healing potion and 10 gold pieces.", 
-                20, 10);
+                20, 10, null);
 
             clearAlchemistGarden.QuestCompletionItems.Add(
                 new QuestCompletionItem(ItemByID(ITEM_ID_RAT_TAIL), 3));
@@ -102,7 +102,7 @@ namespace Engine
             Quest clearFarmersField = new Quest(QUEST_ID_CLEAR_FARMERS_FIELD,
                 "Clear the farmer's field",
                 "Kill snakes in the farmer's field and bring back 3 snake fangs. You will receive an adventurer's pass and 20 gold pieces.", 
-                20, 20);
+                20, 20, null);
             
             clearFarmersField.QuestCompletionItems.Add(new QuestCompletionItem(
                 ItemByID(ITEM_ID_SNAKE_FANG), 3));
