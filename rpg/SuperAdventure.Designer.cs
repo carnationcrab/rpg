@@ -155,6 +155,7 @@ namespace rpg
             this.btnUseWeapon.TabIndex = 11;
             this.btnUseWeapon.Text = "Use";
             this.btnUseWeapon.UseVisualStyleBackColor = true;
+            this.btnUseWeapon.Click += new System.EventHandler(this.btnUseWeapon_Click);
             // 
             // btnWest
             // 
@@ -164,6 +165,7 @@ namespace rpg
             this.btnWest.TabIndex = 12;
             this.btnWest.Text = "West";
             this.btnWest.UseVisualStyleBackColor = true;
+            this.btnWest.Click += new System.EventHandler(this.btnWest_Click);
             // 
             // btnSouth
             // 
@@ -173,6 +175,7 @@ namespace rpg
             this.btnSouth.TabIndex = 13;
             this.btnSouth.Text = "South";
             this.btnSouth.UseVisualStyleBackColor = true;
+            this.btnSouth.Click += new System.EventHandler(this.btnSouth_Click);
             // 
             // btnEast
             // 
@@ -182,6 +185,7 @@ namespace rpg
             this.btnEast.TabIndex = 14;
             this.btnEast.Text = "East";
             this.btnEast.UseVisualStyleBackColor = true;
+            this.btnEast.Click += new System.EventHandler(this.btnEast_Click);
             // 
             // btnNorth
             // 
@@ -191,6 +195,7 @@ namespace rpg
             this.btnNorth.TabIndex = 15;
             this.btnNorth.Text = "North";
             this.btnNorth.UseVisualStyleBackColor = true;
+            this.btnNorth.Click += new System.EventHandler(this.btnNorth_Click);
             // 
             // btnUsePotion
             // 
@@ -200,6 +205,7 @@ namespace rpg
             this.btnUsePotion.TabIndex = 16;
             this.btnUsePotion.Text = "Use";
             this.btnUsePotion.UseVisualStyleBackColor = true;
+            this.btnUsePotion.Click += new System.EventHandler(this.btnUsePotion_Click);
             // 
             // rtbLocation
             // 
